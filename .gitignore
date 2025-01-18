@@ -27,3 +27,4 @@ dist-ssr
 vite.config.js
 tailwind.config.js
 package-lock.json
+.env
